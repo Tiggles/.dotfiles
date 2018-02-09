@@ -2,6 +2,8 @@
 :set relativenumber
 :set number
 :set hlsearch
+:set showmatch
+:set incsearch
 :set wildmenu
 :set tabstop=4
 :set expandtab 
