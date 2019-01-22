@@ -1,20 +1,19 @@
 {
-    "workbench.colorTheme": "Raijū - Subliminal",
+    "workbench.colorTheme": "Monokai Dimmed",
     "editor.rulers": [
         120
     ],
     "window.zoomLevel": 0,
     "zenMode.centerLayout": true,
-    "workbench.editor.enablePreview": false,
+    "workbench.editor.enablePreview": true,
     "npm.enableScriptExplorer": true,
     "typescript.updateImportsOnFileMove.enabled": "prompt",
     "breadcrumbs.enabled": true,
     "scss.lint.idSelector": "warning",
     "workbench.startupEditor": "welcomePage",
-    
     "editor.folding": false,
     "editor.hideCursorInOverviewRuler": true,
-    "editor.lineNumbers": "off",
+    "editor.lineNumbers": "relative",
     "editor.matchBrackets": false,
     "editor.minimap.enabled": false,
     "editor.occurrencesHighlight": false,
@@ -25,6 +24,9 @@
     "workbench.activityBar.visible": true,
     "workbench.iconTheme": "vs-seti",
     "workbench.editor.showIcons": false,
-    "workbench.statusBar.visible": false,
-    "workbench.editor.tabCloseButton": "off"
+    "workbench.statusBar.visible": true,
+    "workbench.editor.tabCloseButton": "off",
+    "git.autofetch": true,
+    "editor.cursorSmoothCaretAnimation": true,
+    "git.confirmSync": false
 }
